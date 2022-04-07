@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
                 backgroundImage: AssetImage('micard_images/doge.jpeg'),
               ),
                Text(
-                'hallo',
+                'hello',
                 style: TextStyle(
                   fontFamily: 'IndieFlower',
                   fontSize: 50.0,
